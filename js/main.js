@@ -20,7 +20,7 @@ function responsive_control() {
 }
 
 
-// SLIDE SHOW ON MAIN PAGE
+// SLIDE SHOW ON SUBPAGES
 
 let slideIndex = 1;
 showSlides(slideIndex);
